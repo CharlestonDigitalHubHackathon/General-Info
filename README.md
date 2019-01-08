@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/HackathonLogo2019.png)
 # General-Info
 Schedule, map, an other resources for Hackathon 2019
 
@@ -9,7 +10,7 @@ Schedule, map, an other resources for Hackathon 2019
 7:30 ish:     Judging complete
 
 ## Map
-Lost? See <LINK> to find where you're going.
+Lost? Check out [the map](https://github.com/Hackathon2019/General-Info/blob/master/HubMap.pdf) to find where you're going.
   
 ## Wifi Network
 How to join the wifi network:
