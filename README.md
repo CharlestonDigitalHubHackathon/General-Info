@@ -5,8 +5,11 @@ Schedule, map, an other resources for Hackathon 2019
 ## Schedule
 
 8:00 - 9:00:  Introductions, breakfast, etc.
+
 9:00 - 5:00:  Development time
+
 5:00:         Judging begins
+
 7:30 ish:     Judging complete
 
 ## Map
