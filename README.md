@@ -22,7 +22,7 @@ How to join the wifi network:
 3. Rejoice. 
 
 ## Rubric
-_Judging Rubric goes here_
+Teams will be scored using this [rubric](https://github.com/Hackathon2019/General-Info/blob/master/Rubric.pdf).
 
 ## Questions?
 
