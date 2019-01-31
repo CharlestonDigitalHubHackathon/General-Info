@@ -16,7 +16,8 @@ Schedule, map, an other resources for Hackathon 2019
 Lost? Check out [the map](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/HubMap.png) to find where you're going.
   
 ## Wifi Network
-SSID: `SSID TBD`
+SSID: `SSID TBD` 
+
 password: `password tbd`
 
 ## Rubric
