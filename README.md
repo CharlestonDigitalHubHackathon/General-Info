@@ -6,18 +6,18 @@ This repository contains general information about the 2019 Charleston Digital H
 
 Saturday, February 23rd, at the Charleston Hub (2387 Clements Ferry Road)
  
-8:00 - 9:00 – Registration / breakfast
-9:00 - 9:15 – Introductions
-9:15 – Development begins
-12:00 – Lunch begins
-4:00 – Warning to make sure teams are watching the time
-4:40 – Warning to make sure teams have everything checked into source code
-5:00 – Development ends and Dinner begins
-5:15 – Project Judging begins
-~6:45 – Project Judging ends (tentative)
-~7:00 – Announce the winners in each project track
-~7:15 – Final Presentations begin
-~8:00 – Best In Show winners announced
++ 8:00 - 9:00 – Registration / breakfast
++ 9:00 - 9:15 – Introductions
++ 9:15 – Development begins
++ 12:00 – Lunch begins
++ 4:00 – Warning to make sure teams are watching the time
++ 4:40 – Warning to make sure teams have everything checked into source code
++ 5:00 – Development ends and Dinner begins
++ 5:15 – Project Judging begins
++ ~6:45 – Project Judging ends (tentative)
++ ~7:00 – Announce the winners in each project track
++ ~7:15 – Final Presentations begin
++ ~8:00 – Best In Show winners announced
 
 ## Map
 Lost? Check out [the map](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/HubMap.png) to find where you're going.
@@ -30,11 +30,11 @@ password: `password tbd`
 ## Project Judging (First Round)
 Your project will be judged across the following categories with the corresponding weight:
 
-Implementation — 15
-Creativity — 10
-Data — 10
-Impact — 10
-X-Factor — 5
++ Implementation — 15
++ Creativity — 10
++ Data — 10
++ Impact — 10
++ X-Factor — 5
 
 ## Best in Show Judging (Second Round)
 If your project wins the first round, your project will move onto the second round to determine best in show. This round will pit the winning project across the four categories against eachother in front of a panel of judges with a variety of experiences and backgrounds. 
