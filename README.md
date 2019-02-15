@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/HubHackathon2019_Logo.png)
+![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/Hackathon2019_Logo.png)
 # General-Info
 This repository contains general information about the 2019 Charleston Digital Hub Hackathon, such as the schedule, map, and WiFi instructions. Each sustainable development goal will have an additional repository containing resources specific to it, such as the provided datasets, a description of the goal, and helpful website resources to aid in solution implementation.
 
