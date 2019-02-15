@@ -36,8 +36,18 @@ Your project will be judged across the following categories with the correspondi
 + Impact — 10
 + X-Factor — 5
 
+Four rooms will be assigned for judging (see map to find rooms):
++ Peanut Butter
++ Dev/Null
++ Situation
++ Eggs
+
+Outside of each room will be a schedule of when each team is assigned for judging. Generally, the number postfixed to your team name represents where your slot is in the schedule. 
+
+Teams will have 3 minutes to demo working code, followed by a 2 minute Q&A session with the judges. 
+
 ## Best in Show Judging (Second Round)
-If your project wins the first round, your project will move onto the second round to determine best in show. This round will pit the winning project across the four categories against eachother in front of a panel of judges with a variety of experiences and backgrounds. 
+If your project wins the first round, your project will move onto the second round to determine best in show. This round will pit the winning project across the four categories against eachother in front of a panel of judges with a variety of experiences and backgrounds.
 
 While the final round judges will have seen the rubric, we are asking them to consider each project using their backgrounds and insights to determine the one that best solves the issue at heart for the Sustainable Development Goal.
 
