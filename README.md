@@ -5,42 +5,49 @@ This repository contains general information about the 2019 Charleston Digital H
 ## Schedule
 
 Saturday, February 23rd, at the Charleston Digital Hub (2387 Clements Ferry Road)
- 
-+ 8:00 - 9:00 – Registration / breakfast
-+ 9:00 - 9:15 – Introductions
-+ 9:15 – Development begins
-+ 12:00 – Lunch begins
-+ 4:00 – Warning to make sure teams are watching the time
-+ 4:40 – Warning to make sure teams have everything checked into source code
-+ 5:00 – Development ends and Dinner begins
-+ 5:15 – Project Judging begins
-+ ~6:45 – Project Judging ends (tentative)
-+ ~7:00 – Announce the winners in each project track
-+ ~7:15 – Final Presentations begin
-+ ~8:00 – Best In Show winners announced
+
+| Time              | Details                                                              |
+| :---------------- | -------------------------------------------------------------------- |
+| 8:00 AM – 9:00 AM | Registration / breakfast                                             |
+| 9:00 AM - 9:15 AM | Introductions                                                        |
+| 9:15 AM           | Development begins                                                   |
+| 12:00 PM          | Lunch begins                                                         |
+| 4:00 PM           | Warning to make sure teams are watching the time                     |
+| 4:40 PM           | Warning to make sure teams have all code checked in                  |
+| 5:00 PM           | Development ends and dinner begins                                   |
+| 5:15 PM           | Project judging begins                                               |
+| ~6:45 PM          | Project judging ends (tentative)                                     |
+| ~7:00 PM          | Announce the winners in each project track                           |
+| ~7:15 PM          | Final presentations begin                                            |
+| ~8:00 PM          | Best in show winners announced                                       |
 
 ## Map
 ![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/Hackathon2019_Map.png)
   
 ## Wifi Network
-SSID: `SSID TBD` 
+SSID: `TBD` 
 
-password: `password tbd`
+password: `TBD`
 
 ## Project Judging (First Round)
 Your project will be judged across the following categories with the corresponding weight:
 
-+ Implementation — 15
-+ Creativity — 10
-+ Data — 10
-+ Impact — 10
-+ X-Factor — 5
+|  Category      | Weight |
+| :------------- | :----: |
+| Implementation | 15     |
+| Creativity     | 10     |
+| Data           | 10     |
+| Impact         | 10     |
+| X-Factor       | 5      |
 
 Four rooms will be assigned for judging (see map to find rooms):
-+ Peanut Butter - Quality Education
-+ Dev/Null - Affordable & Clean Energy 
-+ Situation - Climate Action
-+ Eggs - Sustainable Cities & Communities
+
+| Room          | Goal                             |
+| :-----------: | :------------------------------: |
+| Peanut Butter | Quality Education                |
+| Dev/Null      | Affordable & Clean Energy        |
+| Situation     | Climate Action                   |
+| Eggs          | Sustainable Cities & Communities |
 
 Outside of each room will be a schedule of when each team is assigned for judging. Generally, the number postfixed to your team name represents where your slot is in the schedule. 
 
