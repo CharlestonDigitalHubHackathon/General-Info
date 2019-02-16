@@ -51,6 +51,15 @@ If your project wins the first round, your project will move onto the second rou
 
 While the final round judges will have seen the rubric, we are asking them to consider each project using their backgrounds and insights to determine the one that best solves the issue at heart for the Sustainable Development Goal.
 
+## Additional Repositories 
+
+The following repositories contain information specific to each sustainable development goal. Please visit the one assigned to your team to download a copy of the challenge datasets, see more information about the goal, etc. 
+
++ [Quality Education] (https://github.com/charlestondigitalhubhackathon/Quality-Education)
++ [Affordable & Clean Energy] (https://github.com/charlestondigitalhubhackathon/Affordable-and-Clean-Energy)
++ [Climate Action] (https://github.com/charlestondigitalhubhackathon/Climate-Action)
++ [Sustainable Cities & Communities]  (https://github.com/charlestondigitalhubhackathon/Sustainable-Cities-and-Communities)
+
 ## Questions?
 
 Ask your question in the [#helpline](https://hackathon2019.slack.com/messages/CF4TJ01NU) channel on the Hackathon 2019 Slack. 
