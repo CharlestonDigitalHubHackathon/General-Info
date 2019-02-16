@@ -20,7 +20,7 @@ Saturday, February 23rd, at the Charleston Hub (2387 Clements Ferry Road)
 + ~8:00 – Best In Show winners announced
 
 ## Map
-Lost? Check out [the map](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/HubMap.png) to find where you're going.
+![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/Hackathon2019_Map.png)
   
 ## Wifi Network
 SSID: `SSID TBD` 
