@@ -37,10 +37,10 @@ Your project will be judged across the following categories with the correspondi
 + X-Factor — 5
 
 Four rooms will be assigned for judging (see map to find rooms):
-+ Peanut Butter
-+ Dev/Null
-+ Situation
-+ Eggs
++ Peanut Butter - Quality Education
++ Dev/Null - Affordable & Clean Energy 
++ Situation - Climate Action
++ Eggs - Sustainable Cities & Communities
 
 Outside of each room will be a schedule of when each team is assigned for judging. Generally, the number postfixed to your team name represents where your slot is in the schedule. 
 
