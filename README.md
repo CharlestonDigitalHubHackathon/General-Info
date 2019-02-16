@@ -53,4 +53,4 @@ While the final round judges will have seen the rubric, we are asking them to co
 
 ## Questions?
 
-Ask your question in the [#team-requests](https://hackathon2019.slack.com/messages/CF4TJ01NU) channel on the Hackathon 2019 Slack. 
+Ask your question in the [#helpline](https://hackathon2019.slack.com/messages/CF4TJ01NU) channel on the Hackathon 2019 Slack. 
