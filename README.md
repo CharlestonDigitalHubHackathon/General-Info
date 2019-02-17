@@ -27,7 +27,7 @@ Saturday, February 23rd, at the Charleston Digital Hub (2387 Clements Ferry Road
 ## Wifi Network
 SSID: `TBD` 
 
-password: `TBD`
+Password: `TBD`
 
 ## Project Judging (First Round)
 Your project will be judged across the following categories with the corresponding weight:
