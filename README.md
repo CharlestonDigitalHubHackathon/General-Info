@@ -4,7 +4,7 @@ This repository contains general information about the 2019 Charleston Digital H
 
 ## Schedule
 
-Saturday, February 23rd, 
+Saturday, February 23rd   
 Charleston Digital Hub - 2387 Clements Ferry Road, Charleston, SC 29492
 
 | Time              | Details                                                              |
