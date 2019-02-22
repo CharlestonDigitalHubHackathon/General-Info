@@ -26,9 +26,9 @@ Charleston Digital Hub - 2387 Clements Ferry Road, Charleston, SC 29492
 ![](https://raw.githubusercontent.com/Hackathon2019/General-Info/master/Hackathon2019_Map.png)
   
 ## Wifi Network
-SSID: `TBD` 
+SSID: `hackathon2019` 
 
-Password: `TBD`
+Password: `BoozAllenHT2019`
 
 ## Project Judging (First Round)
 Your project will be judged across the following categories with the corresponding weight:
