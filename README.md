@@ -97,12 +97,6 @@ If you have already connected to your SQL instance and have your database(s) cre
  If you haven't connected to your SQL instance and have not created your database(s) already, follow the steps below.
 
 ### [Restoring a Database using command line](#restoring-a-database-using-command-line)
-
-Download [DBeaver Community](https://dbeaver.io/download/) (supported on Mac, Windows, multi SQL variants). 
-
-If you have already connected to your SQL instance and have your database(s) created already, you can restore a database via: right clicking the target database navigating to `Tools > Restore database`, and choosing the database backup file corresponding to the target database.
-
- If you haven't connected to your SQL instance and have not created your database(s) already, follow the steps below.
  
 > __NOTE__: This assumes you have not configured your machine locally with your SQL of choice or any database backups
 
