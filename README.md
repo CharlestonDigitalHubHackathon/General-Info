@@ -41,6 +41,8 @@ Your project will be judged across the following categories with the correspondi
 | Impact         | 10     |
 | X-Factor       | 5      |
 
+[Complete Rubric](https://github.com/CharlestonDigitalHubHackathon/General-Info/blob/master/Rubric.pdf)
+
 Four rooms will be assigned for judging (see map to find rooms):
 
 | Room          | Goal                             |
