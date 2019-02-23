@@ -157,6 +157,6 @@ Login as a root user to MySQL via: `mysql -uroot`
 	`mysql -uroot international_energy_statistics < international_energy_statistics_mysql.sql`
 
 
-## Questions?
+## [Questions](#questions)
 
 Ask your question in the [#helpline](https://hackathon2019.slack.com/messages/CF4TJ01NU) channel on the Hackathon 2019 Slack. 
